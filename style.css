@@ -1,0 +1,56 @@
+body{
+    font-family: 'Merriweather', serif;
+}
+header{
+    padding: 0px 280px;
+}
+.banner{
+    border-radius: 16px;
+    background: linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%), url(resources/Banner\ Image.png);
+    width: 1320px;
+    height: 600px;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.banner-container{
+    width: 600px;
+    padding: 150px 340px;
+}
+.banner-greeting{
+    color: #FFF;
+    text-align: center;
+    font-size: 32px;
+    font-weight: 400;
+    margin-bottom: 0px;
+}
+.banner-title{
+    color: #FFF;
+    text-align: center;
+    font-size: 72px;
+    font-weight: 900;
+    margin-top: 15px;
+}
+.discount-section{
+    text-align: center;
+}
+.discount-title{
+    color: #F00;
+    font-family: Inter;
+    font-size: 88px;
+    font-weight: 700;
+    margin-bottom: 30px;
+}
+.discount-heading{
+    color: #F00;
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+    margin-bottom: 0px;
+}
+.discount-item{
+    color: #070211;
+    font-family: Inter;
+    font-size: 48px;
+    font-weight: 700;
+    margin-top: 5px;
+}
